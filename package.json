@@ -1,0 +1,19 @@
+{
+  "name": "react-best-project-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavent/react-best-folder-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavent/react-best-folder-structure/issues"
+  },
+  "homepage": "https://github.com/slavent/react-best-folder-structure#readme"
+}
